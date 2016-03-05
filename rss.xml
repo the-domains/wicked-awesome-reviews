@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Wicked Awesome Reviews]]></title>
         <description><![CDATA[Wicked Awesome Reviews]]></description>
-        <link>https://thegrid.ai/wicked-awesome-reviews/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:17:32 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/wicked-awesome-reviews/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 02:17:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wicked Awesome Book Reviews]]></title>
             <description><![CDATA[<article><h1>Wicked Awesome Book Reviews</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06f47221a7b38a19e1bb2a24908c8a37daf1c9c6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wicked-awesome-reviews/wicked-awesome-book-reviews/index.html</link>
+            <link>undefinedwicked-awesome-book-reviews/index.html</link>
             <guid isPermaLink="false">cf856f2d-6a6d-4aa2-b99a-67e7197bd99a</guid>
-            <pubDate>Sat, 05 Mar 2016 02:16:30 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 02:15:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
